@@ -1,20 +1,20 @@
-# Base44 App
+# Swipematch Idea
 
+🚀 A project exploring swipe-based UI built with React, Vite, and TailwindCSS.
 
-This app was created automatically by Base44.
-It's a Vite+React app that communicates with the Base44 API.
+📅 Concept created: May 2025  
+🔧 Initial structure: May 13, 2025  
+📤 Published to GitHub: July 30, 2025
 
-## Running the app
+---
+
+## 🔧 Getting Started
+
+Install dependencies and start the development server:
 
 ```bash
 npm install
 npm run dev
-```
-
-## Building the app
-
-```bash
 npm run build
-```
 
-For more information and support, please contact Base44 support at app@base44.com.
+
