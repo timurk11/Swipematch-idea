@@ -19,7 +19,8 @@
 ---
 
 ### 🔧 Tech Stack:
-- **Flutter** – cross-platform mobile UI (iOS-first)
+- **Base44 + React.js (JavaScript)** – current MVP build with AI-assisted development tools  
+- **Flutter** – considered for future cross-platform mobile deployment (iOS-first)  
 - **Firebase** – authentication, Firestore database, and hosting
 - **OpenAI API (GPT-4)** – for onboarding, prompts, and profile parsing
 - **Claude / Gemini / Base44 / ChatGPT** – for development assistance
